@@ -1,0 +1,12 @@
+.expensesList {
+  list-style: none;
+  padding: 0;
+  max-height: 25rem;
+  overflow-y: scroll;
+}
+
+.expensesList__fallback {
+  color: #c5ab63 !important;
+  font-weight: 400;
+  text-align: center;
+}
